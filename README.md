@@ -1,4 +1,7 @@
 # ThingSpeak
+
+Die nachfolgende Dokumentation basiert auf einer Projektarbeit für das Modul 242 an der Technischen Berufsschule Zürich, von Yves Wetter, Ricardo Bras und Davide Logiurato.
+
 ## 1. Beschreibung
 ThingSpeak ist eine Open-Source Analyse-Plattform des Internet-of-Things-Anwendung (IoT). Mit einer API kann man live Datenströme in der Cloud visualisieren und analysieren. Die Daten von den jeweiligen Geräten können an ThingSpeak gesendet werden und es werden sofortige Visualisierungen und Analysen durchgeführt. Mit ThingSpeak können Ingenieure und Wissenschaftler IoT-Systeme prototypisieren und erstellen, ohne Server einrichten oder Web-Software entwickeln zu müssen.
 
